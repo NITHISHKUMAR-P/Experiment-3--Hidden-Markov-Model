@@ -53,7 +53,6 @@ print("The most likely sequence of weather states is:",most_likely_sequence)
 ```
 
 ## Output :
-
 ![image](https://user-images.githubusercontent.com/74660507/230551844-f590235c-afeb-4fac-8ca0-b1d9fb623dd5.png)
 
 ![image](https://user-images.githubusercontent.com/74660507/230551888-d64be5bf-d808-4551-ad2d-635d503388f2.png)
